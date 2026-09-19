@@ -1,6 +1,6 @@
 # destroy-email-spam
 
-![destroy-email-spam](assets/destroy-email-spam-hero.png)
+![A boot crushes a pile of junk envelopes while one urgent envelope stays safe under a glass dome](assets/destroy-email-spam-hero.jpg)
 
 Google Apps Script that triages unread Gmail threads with TypeSafe's Jev API.
 
@@ -73,7 +73,7 @@ In **Project Settings**, set the time zone to `America/New_York` if it is not al
 
 - `Code.gs`: Gmail trigger, Jev request, validation, labeling, and cost logging.
 - `appsscript.json`: V8 runtime and project time zone.
-- `assets/destroy-email-spam-hero.png`: AI-generated README artwork.
+- `assets/destroy-email-spam-hero.jpg`: README artwork, generated with Nano Banana Pro (`gemini-3-pro-image`).
 
 ## Development
 
