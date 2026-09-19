@@ -77,8 +77,6 @@ In **Project Settings**, set the time zone to `America/New_York` if it is not al
 
 ## Development
 
-Tracked in [SKY-16619](https://linear.app/skyvern/issue/SKY-16619/publish-destroy-email-spam-jev-gmail-triage-as-an-internal-repository).
-
 For a local JavaScript syntax check:
 
 ```sh
@@ -86,3 +84,7 @@ node --check < Code.gs
 ```
 
 This checks syntax only. Run `testJevConnection` in Apps Script to check your key and the live API. Confirm labeling and archiving in a test Gmail account before relying on scheduled runs.
+
+## License
+
+[Apache-2.0](LICENSE). Copyright 2026 Skyvern AI, Inc.
