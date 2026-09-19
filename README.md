@@ -1,6 +1,6 @@
 # destroy-email-spam
 
-![A boot crushes a pile of junk envelopes while one urgent envelope stays safe under a glass dome](assets/destroy-email-spam-hero.jpg)
+![A vintage movie poster: a kaiju made of junk mail is blasted apart by a beam from a small mailbox, while one clean envelope floats safely in the light](assets/destroy-email-spam-hero.jpg)
 
 Google Apps Script that triages unread Gmail threads with TypeSafe's Jev API.
 
